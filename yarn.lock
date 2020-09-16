@@ -962,13 +962,12 @@ ava@^1.0.0-rc.2:
     unique-temp-dir "^1.0.0"
     update-notifier "^2.5.0"
 
-axios@^0.18.0:
-  version "0.18.1"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.18.1.tgz#ff3f0de2e7b5d180e757ad98000f1081b87bcea3"
-  integrity sha512-0BfJq4NSfQXd+SkFdrvFbG7addhYSBA2mQwISr46pD6E5iqkWg02RAs8vyTT/j0RTnoYmeXauBuSv1qKwR179g==
+axios@^0.19.0:
+  version "0.19.2"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.19.2.tgz#3ea36c5d8818d0d5f8a8a97a6d36b86cdc00cb27"
+  integrity sha512-fjgm5MvRHLhx+osE2xoekY70AhARk3a6hkN+3Io1jc00jtquGvxYlKlsFUhmUET0V5te6CcZI7lcv2Ym61mjHA==
   dependencies:
     follow-redirects "1.5.10"
-    is-buffer "^2.0.2"
 
 babel-code-frame@^6.22.0:
   version "6.26.0"
@@ -1800,12 +1799,12 @@ fast-diff@^1.1.2:
   resolved "https://registry.yarnpkg.com/fast-diff/-/fast-diff-1.2.0.tgz#73ee11982d86caaf7959828d519cfe927fac5f03"
   integrity sha512-xJuoT5+L99XlZ8twedaRf6Ax2TgQVxvgZOYoPKqZufmJib0tL2tegPBOZb1pVNgIhlqDlA0eO0c3wBvQcmzx4w==
 
-figma-js@^1.5.1:
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/figma-js/-/figma-js-1.5.1.tgz#e46c050a0dc21efee314405445485d6530567403"
-  integrity sha1-5GwFCg3CHv7jFEBURUhdZTBWdAM=
+figma-js@^1.11.0:
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/figma-js/-/figma-js-1.13.0.tgz#0656b99875c8c0cd2b9a5cb8a1c031d14ebc6f4e"
+  integrity sha512-YBYxKHzZ3vfjxU2RldJ6ZWGaXGrXlqwef7lKgpDIIMr2dAG4xNkwLj31UiQhw1kzdkABhxiDJBJgVGMKwEogfA==
   dependencies:
-    axios "^0.18.0"
+    axios "^0.19.0"
 
 figures@^1.7.0:
   version "1.7.0"
@@ -2228,11 +2227,6 @@ is-buffer@^1.1.5:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/is-buffer/-/is-buffer-1.1.6.tgz#efaa2ea9daa0d7ab2ea13a97b2b8ad51fefbe8be"
   integrity sha512-NcdALwpXkTm5Zvvbk7owOUSvVvBKDgKP5/ewfXEznmQFfs4ZRmanOeKBTjRVjka3QFoN6XJ+9F3USqfHqTaU5w==
-
-is-buffer@^2.0.2:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/is-buffer/-/is-buffer-2.0.4.tgz#3e572f23c8411a5cfd9557c849e3665e0b290623"
-  integrity sha512-Kq1rokWXOPXWuaMAqZiJW4XxsmD9zGx9q4aePabbn3qCRGedtH7Cm+zV8WETitMfu1wdh+Rvd6w5egwSngUX2A==
 
 is-builtin-module@^1.0.0:
   version "1.0.0"
