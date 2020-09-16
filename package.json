@@ -64,6 +64,6 @@
   },
   "dependencies": {
     "color-namer": "^1.3.0",
-    "figma-js": "^1.5.1"
+    "figma-js": "^1.11.0"
   }
 }
